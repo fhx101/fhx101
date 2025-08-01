@@ -3,7 +3,7 @@ title_left    : "fhx"
 title_right   : "101" # default: ""
 description   : "An enthusiast's personal blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://fhx101.github.io/fhx101/ # site url
+url           : https://fhx101.github.io/fhx101 # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
